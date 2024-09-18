@@ -1,6 +1,6 @@
 import requests
 import json
-import config_test
+import config
 from tqdm import tqdm
 
 
