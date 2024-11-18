@@ -4,7 +4,7 @@
 
 Добавить свои данные в `config.py`:
 
-Токен и ID  ВК
+Токен и ID ВК
 
 `ACCESS_TOKEN_VK = ''`\
 `OWNER_ID = ''`\
